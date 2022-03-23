@@ -9,4 +9,4 @@ Add your name and project to the list below by submitting a Pull Request!
 
 ## Submissions:
 
-1. Steve Smith | [Github](https://www.google.com)
+1. Chinmay Parkhi | [Github](https://github.com/cparkhi16/Swabhav-Training/tree/main/awsLambda/user-api)
